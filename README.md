@@ -2,4 +2,7 @@
 
 I’m currently learning Golang & HTMX
 
+Reading: https://hypermedia.systems/
+
+
 #### https://Trisciuzzi.Dev
